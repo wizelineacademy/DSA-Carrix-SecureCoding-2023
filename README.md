@@ -62,7 +62,8 @@ En este calendario podrás ver las sesiones que están programadas durante esta 
 
 **Programa de estudios**
 
-Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/Carrix-SecureCoding-2023/files/12346965/DSA-Carrix.Secure.Coding. _.Plan de estudios._.Wizeline.pdf)
+Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579400/Espanol.DSA-Carrix.Secure.Coding._.Syllabus._.Wizeline.pdf)
+
 **Desglose de la agenda**
 
 Los temas se dividen en 6 semanas, 2 sesiones por semana, 2 horas por sesión.
