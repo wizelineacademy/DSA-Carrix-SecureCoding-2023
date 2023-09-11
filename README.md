@@ -238,7 +238,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 **Ruta de Autoaprendizaje**
 
-- Aqui podran encontrar informacion y documentacion de apoyo para el entrenamiento :
+*Aqui podran encontrar informacion y documentacion de apoyo para el entrenamiento :*
 
 - [OWASP](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579599/OWASP.pdf)
 - [SSO](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579600/What.is.SSO.pdf)
