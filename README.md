@@ -240,9 +240,9 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 - Aqui podran encontrar informacion y documentacion de apoyo para el entrenamiento :
 
-- OWASP
-- SSO
-- Secure Coding Guidelines
+- [OWASP](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579599/OWASP.pdf)
+- [SSO](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579600/What.is.SSO.pdf)
+- [Secure Coding Guidelines](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579602/Secure.Coding.Guidelines.pdf)
 
 
 # 📆 VI - Programe su sesión de mentoria bajo demanda
