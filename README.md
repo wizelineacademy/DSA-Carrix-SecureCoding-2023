@@ -232,24 +232,26 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 **Sesión 20: Entregable del proyecto final**
 - *Fecha: 6 de diciembre de 2023*
-- *Instructor: DSA y PYMES*
+- *Instructor: DSA y SMEs*
 - [PDF/Material]
 - [Grabación de sesión]
 
 # V - Proyecto Final (Proyecto Capstone)
 
-✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega en [AQUÍ]
+✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ]
 
 # 📆 VI - Programe su sesión de mentoria bajo demanda
 
 En cualquier momento de la formación podrás solicitar un 1:1 con un experto de Wizeline. Aquí es cómo:
 
-- Haga clic en este [ENLACE] para acceder a un formulario para programar su sesión de tutoría
-- Rellena todos los campos con tu información.
+- Haga clic en alguno de estos enlaces para acceder a un formulario para programar su sesión de tutoría
+
+
+
 - El personal de DSA revisará su solicitud.
 - El personal de DSA configurará la sesión de tutoría según su información y la disponibilidad del mentor.
-- Si hay dificultades con el horario y la disponibilidad, el personal de DSA se comunicará con usted para solucionarlo.
-- Unirse a la convocatoria en la fecha y hora previstas
+- Unirse a la convocatoria en la fecha y hora previstas.
+- Si hay necesidad de reagendar la sesion, favor de enviar un correo a dsa-carrix@wizeline.com y comunicar al SME con la fecha deseada.
 - Una vez que finalice la reunión, complete [ESTE] formulario de comentarios al final de su tutorial.
 
 Importante:
