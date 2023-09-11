@@ -80,7 +80,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 **Sesión de Inicio / Introducción**
 - *Fecha: miércoles 27 de septiembre de 2023*
-- *Instructor: DSA y PYMES*
+- *Instructor: DSA y SMEs*
 - [PDF/Material]
 - [Grabación de sesión]
 
