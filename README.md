@@ -242,25 +242,24 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 # 📆 VI - Programe su sesión de mentoria bajo demanda
 
-En cualquier momento de la formación podrás solicitar un 1:1 con un experto de Wizeline. Aquí es cómo:
+En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto de Wizeline. Aquí te explicamos cómo:
 
-- Haga clic en alguno de estos enlaces para acceder a un formulario para programar su sesión de tutoría
+- Haga clic en alguno de los siguientes enlaces para acceder al calendario para programar su sesión de mentoria
 
 | MENTOR | AGENDAR MENTORIA |
 | ------ | ----- |
 | Grethel Bello Cagnant |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
 | Andres Martinez Mendieta |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
 
-- El personal de DSA revisará su solicitud.
-- El personal de DSA configurará la sesión de tutoría según su información y la disponibilidad del mentor.
-- Unirse a la convocatoria en la fecha y hora previstas.
+- Al agendar la sesion recibiras la informacion necesaria para poder unirse a la sesion de mentoria.
+- Unirse a la mentoria en la fecha y hora previstas.
 - Si hay necesidad de reagendar la sesion, favor de enviar un correo a dsa-carrix@wizeline.com y comunicar al SME con la fecha deseada.
 - Una vez que finalice la reunión, complete [ESTE] formulario de comentarios al final de su tutorial.
 
 Importante:
 
 Si no puede asistir a la reunión, envíe un correo electrónico a dsa-carrix@wizeline.com
-Si llega tarde, envíe un mensaje en Teams para informarle.
+Si llega tarde, envíe un mensaje en Teams para informar al mentor y a DSA.
 Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
 Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
 
