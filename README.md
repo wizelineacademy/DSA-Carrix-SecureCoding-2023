@@ -246,7 +246,10 @@ En cualquier momento de la formación podrás solicitar un 1:1 con un experto de
 
 - Haga clic en alguno de estos enlaces para acceder a un formulario para programar su sesión de tutoría
 
-
+| MENTOR | AGENDAR MENTORIA |
+| ------ | ----- |
+| Grethel Bello Cagnant |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
+| Andres Martinez Mendieta |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
 
 - El personal de DSA revisará su solicitud.
 - El personal de DSA configurará la sesión de tutoría según su información y la disponibilidad del mentor.
