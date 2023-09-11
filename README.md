@@ -11,7 +11,7 @@ Tabla de contenido
 * [III - Calendario](#iii---calendario)
 * [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
-* [VI - Programe su sesión de tutoría bajo demanda](#-vi---programe-su-sesión-de-mentoría-bajo-demanda)
+* [VI - Programe su sesión de tutoría bajo demanda](#-vi---programe-su-sesión-de-mentoria-bajo-demanda)
 * [VII. Comuníquese con el Acelerador de habilidades digitales de Wizeline](#vii---contact-wizelines-digital-skills-accelerator)
 
 # I - Bienvenido
@@ -236,7 +236,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de sesión] para ay
 
 ✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega en [AQUÍ]
 
-# 📆 VI - Programe su sesión de tutoría bajo demanda
+# 📆 VI - Programe su sesión de mentoria bajo demanda
 
 En cualquier momento de la formación podrás solicitar un 1:1 con un experto de Wizeline. Aquí es cómo:
 
