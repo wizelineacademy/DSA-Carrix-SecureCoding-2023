@@ -43,15 +43,19 @@ Cronograma:
 
 **Recursos/artículos de autoestudio**
 
-- Esta es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que puedas complementar tu aprendizaje.
+*Esta es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que puedas complementar tu aprendizaje :*
+
+- [OWASP](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579599/OWASP.pdf)
+- [SSO](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579600/What.is.SSO.pdf)
+- [Secure Coding Guidelines](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579602/Secure.Coding.Guidelines.pdf)
 
 **Proyecto final**
 
-- Este será un desafío creado para poner en práctica los conocimientos adquiridos durante la formación.
+- Este será un desafío creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
 
 # III - Calendario
 
-En este calendario podrás ver las sesiones que están programadas durante esta formación:
+En este calendario podrás ver las sesiones que están programadas durante el entrenamiento :
 
 <img width="1224" alt="1" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/f009241c-4013-4c20-9f18-d9034e05f442">
 <img width="1227" alt="2" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/ca3bff84-d695-4644-8299-0a4d425e2091">
@@ -235,15 +239,6 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 # V - Proyecto Final (Proyecto Capstone)
 
 ✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega en [AQUÍ]
-
-**Ruta de Autoaprendizaje**
-
-*Aqui podran encontrar informacion y documentacion de apoyo para el entrenamiento :*
-
-- [OWASP](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579599/OWASP.pdf)
-- [SSO](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579600/What.is.SSO.pdf)
-- [Secure Coding Guidelines](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579602/Secure.Coding.Guidelines.pdf)
-
 
 # 📆 VI - Programe su sesión de mentoria bajo demanda
 
