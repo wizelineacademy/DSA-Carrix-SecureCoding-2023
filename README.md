@@ -39,7 +39,7 @@ Cronograma:
 
 **Tutoría bajo demanda**
 
-- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUÍ](#-vi---schedule-your-on-demand-mentoring-session) están las instrucciones y enlaces para solicitar una sesión.
+- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUÍ](#-vi---programe-su-sesión-de-mentoria-bajo-demanda)están las instrucciones y enlaces para solicitar una sesión.
 
 **Recursos/artículos de autoestudio**
 
@@ -69,7 +69,7 @@ Los temas se dividen en 6 semanas, 2 sesiones por semana, 2 horas por sesión.
 
 **Comentarios de la sesión**
 
-Al final de cada sesión en vivo, complete nuestra [Encuesta de sesión] para ayudarnos a mejorar su experiencia de aprendizaje.
+Al final de cada sesión en vivo, complete nuestra [Encuesta de sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
 
 # PROGRAMA DE ENTRENAMIENTO
 
