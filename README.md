@@ -73,7 +73,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de sesión] para ay
 
 # PROGRAMA DE ENTRENAMIENTO
 
-**Sesión de apertura / Introducción**
+**Sesión de Inicio / Introducción**
 - *Fecha: miércoles 27 de septiembre de 2023*
 - *Instructor: DSA y PYMES*
 - [PDF/Material]
