@@ -69,7 +69,7 @@ Los temas se dividen en 6 semanas, 2 sesiones por semana, 2 horas por sesión.
 
 **Comentarios de la sesión**
 
-Al final de cada sesión en vivo, complete nuestra [Encuesta de sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
+Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
 
 # PROGRAMA DE ENTRENAMIENTO
 
