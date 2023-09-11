@@ -6,7 +6,7 @@
 Tabla de contenido
 ==================
 
-* [Yo - Bienvenido](#i---bienvenido)
+* [I - Bienvenido](#i---bienvenido)
 * [II - Información general de capacitación](#ii---información-general-de-capacitación)
 * [III - Calendario](#iii---calendario)
 * [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
