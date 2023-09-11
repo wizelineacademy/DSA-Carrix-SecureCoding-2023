@@ -1,6 +1,5 @@
 # DSA-Carrix-SecureCoding-2023
 
-# ACELERADOR DE HABILIDADES DIGITALES
 **Capacitación en codificación segura para Carrix**
 
 Tabla de contenido
