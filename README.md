@@ -39,7 +39,7 @@ Cronograma:
 
 **Tutoría bajo demanda**
 
-- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUÍ](#-vi---programe-su-sesión-de-mentoria-bajo-demanda)están las instrucciones y enlaces para solicitar una sesión.
+- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUÍ](#-vi---programe-su-sesión-de-mentoria-bajo-demanda) están las instrucciones y enlaces para solicitar una sesión.
 
 **Recursos/artículos de autoestudio**
 
@@ -235,6 +235,15 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 # V - Proyecto Final (Proyecto Capstone)
 
 ✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega en [AQUÍ]
+
+**Ruta de Autoaprendizaje**
+
+- Aqui podran encontrar informacion y documentacion de apoyo para el entrenamiento :
+
+- OWASP
+- SSO
+- Secure Coding Guidelines
+
 
 # 📆 VI - Programe su sesión de mentoria bajo demanda
 
