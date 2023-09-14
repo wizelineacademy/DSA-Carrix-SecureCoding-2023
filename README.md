@@ -11,7 +11,7 @@ Tabla de contenido
 * [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
 * [VI - Solicita Tu Mentoria](#-vi---solicita-tu-mentoria)
-* [VII. Comuníquese con Digital Skills Accelerator](#vii---póngase-en-contacto-con-d)
+* [VII. Comuníquese con Digital Skills Accelerator](#vii---póngase-en-contacto-con-digital-skills-accelerator)
 
 # I - Bienvenido
 
@@ -263,7 +263,7 @@ Importante:
 - Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
 - Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
 
-# VII - Póngase en contacto con DSA
+# VII - Póngase en contacto con Digital Skills Accelerator
 
 Si tiene alguna pregunta sobre el programa, logística, acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
