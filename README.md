@@ -253,7 +253,7 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 
 - Al agendar la sesion recibiras la informacion necesaria para poder unirse a la sesion de mentoria.
 - Unirse a la mentoria en la fecha y hora previstas.
-- Si hay necesidad de reagendar la sesion, favor de enviar un correo a dsa-carrix@wizeline.com y comunicar al SME con la fecha deseada.
+- Si hay necesidad de reagendar la sesion, favor de enviar un correo a dsa-carrix@wizeline.com y si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
 - Una vez que finalice la reunión, complete [ESTE] formulario de comentarios al final de su tutorial.
 
 Importante:
