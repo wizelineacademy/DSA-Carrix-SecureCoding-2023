@@ -11,7 +11,7 @@ Tabla de contenido
 * [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
 * [VI - Solicita Tu Mentoria](#-vi---solicita-tu-mentoria)
-* [VII. Comuníquese con Digital Skills Accelerator](#vii---póngase-en-contacto-con-digital-skills-accelerator)
+* [VII. Comuníquese con Digital Skills Accelerator](#vii---comuniquese-con-digital-skills-accelerator)
 
 # I - Bienvenido
 
