@@ -263,7 +263,7 @@ Importante:
 - Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
 - Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
 
-# VII - Póngase en contacto con Digital Skills Accelerator
+# VII - Comuníquese con Digital Skills Accelerator
 
 Si tiene alguna pregunta sobre el programa, logística, acceso, etc., comuníquese con el equipo de Wizeline Digital Skills Accelerator.
 
