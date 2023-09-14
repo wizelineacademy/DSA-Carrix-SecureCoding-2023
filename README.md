@@ -258,10 +258,10 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 
 Importante:
 
-Si no puede asistir a la reunión, envíe un correo electrónico a dsa-carrix@wizeline.com
-Si llega tarde, envíe un mensaje en Teams para informar al mentor y a DSA.
-Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
-Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
+- Si no puede asistir a la reunión, envíe un correo electrónico a dsa-carrix@wizeline.com
+- Si llega tarde, envíe un mensaje en Teams para informar al mentor y a DSA.
+- Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
+- Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
 
 # VII - Póngase en contacto con el Acelerador de Habilidades Digitales de Wizeline
 
