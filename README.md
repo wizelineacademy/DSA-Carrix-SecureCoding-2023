@@ -10,7 +10,7 @@ Tabla de contenido
 * [III - Calendario](#iii---calendario)
 * [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
-* [VI - Programe su sesión de tutoría bajo demanda](#vi---solicita-tu-mentoria)
+* [VI - Solicita Tu Mentoria](#vi---solicita-tu-mentoria)
 * [VII. Comuníquese con el Acelerador de habilidades digitales de Wizeline](#vii---contact-wizelines-digital-skills-accelerator)
 
 # I - Bienvenido
