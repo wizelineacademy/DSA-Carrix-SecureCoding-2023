@@ -200,6 +200,8 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 | ------ | ----- |
 | Grethel Bello Cagnant |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
 | Andres Martinez Mendieta |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
+| Josias Rico Garcia|	[AQUI](https://calendly.com/josias-rico/dsa-carrix-mentorias) |
+| Angel Martinez Reyes |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) |
 
 - Al agendar la sesion recibiras la informacion necesaria para poder unirse a la sesion de mentoria.
 - Unirse a la mentoria en la fecha y hora previstas.
