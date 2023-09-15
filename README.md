@@ -27,19 +27,19 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 Cronograma:
 
-- **Inicio de la evaluación: 4 de septiembre de 2023**
-- **Período de evaluación: Del 4 de septiembre de 2023 al 26 de septiembre de 2023**
-- **Inicio del entrenamiento: 27 de septiembre de 2023**
-- *Sesiones en vivo: del 2 de octubre de 2023 al 6 de diciembre de 2023*
+- **Inicio de la evaluación: 8 de septiembre de 2023**
+- **Período de evaluación: Del 12 de septiembre de 2023 al 15 de septiembre de 2023**
+- **Inicio del entrenamiento: 28 de septiembre de 2023**
+- *Sesiones en vivo: del 2 de octubre de 2023 al 14 de Noviembre de 2023*
 - *Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST*
 
 - Durante las sesiones online se sugiere tener la cámara encendida en todo momento.
 
 - Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia para contactar a Wizeline Digital Skills Accelerator correo electrónico: dsa-carrix@wizeline.com
 
-**Tutoría bajo demanda**
+**Mentorias**
 
-- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUÍ](#-vi---programe-su-sesión-de-mentoria-bajo-demanda) están las instrucciones y enlaces para solicitar una sesión.
+- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUÍ](#-vi---solicita-tu-mentoria) están las instrucciones y enlaces para solicitar una sesión.
 
 **Recursos/artículos de autoestudio**
 
@@ -57,10 +57,7 @@ Cronograma:
 
 En este calendario podrás ver las sesiones que están programadas durante el entrenamiento :
 
-<img width="1224" alt="1" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/f009241c-4013-4c20-9f18-d9034e05f442">
-<img width="1227" alt="2" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/ca3bff84-d695-4644-8299-0a4d425e2091">
-<img width="1225" alt="3" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/031f3c84-1484-4adc-a8fb-006bd8aa2947">
-<img width="1225" alt="4" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/140a4734-a313-4390-99fe-5e1f487813ab">
+
 
 # IV - Agenda del Entrenamiento
 
@@ -182,56 +179,8 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-# MÓDULO 4
-
-**SEMANA 7**
-
-**Sesión 14: Fortalezas y debilidades de la tecnología actual (auditoría)**
-- *Fecha: miércoles 15 de noviembre de 2023*
-- *Instructora: Grethel Bello Cagnant*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**SEMANA 8**
-
-**Sesión 15: Documentar y diagramar**
-- *Fecha: Martes 21 de noviembre de 2023*
-- *Instructora: Grethel Bello Cagnant*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 16: Recomendar mejoras**
-- *Fecha: miércoles 22 de noviembre de 2023*
-- *Instructora: Grethel Bello Cagnant*
-- [PDF/Material]
-- [Grabación de sesión]
-
-# MÓDULO 5
-
-**SEMANA 9**
-
-**Sesión 17: Optimización de las prácticas de desarrollo**
-- *Fecha: lunes 27 de noviembre de 2023*
-- *Instructora: Grethel Bello Cagnant*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 18: Evaluación del entorno de desarrollo**
-- *Fecha: miércoles 29 de noviembre de 2023*
-- *Instructora: Grethel Bello Cagnant*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**SEMANA 10**
-
-**Sesión 19: Mejores prácticas de seguridad ágil**
-- *Fecha: lunes 4 de diciembre de 2023*
-- *Instructora: Grethel Bello Cagnant*
-- [PDF/Material]
-- [Grabación de sesión]
-
-**Sesión 20: Entregable del proyecto final**
-- *Fecha: 6 de diciembre de 2023*
+**Sesión 14: Entregable del proyecto final**
+- *Fecha: 14 de noviembre de 2023*
 - *Instructor: DSA y SMEs*
 - [PDF/Material]
 - [Grabación de sesión]
