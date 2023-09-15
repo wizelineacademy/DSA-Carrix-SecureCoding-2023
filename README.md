@@ -39,7 +39,7 @@ Cronograma:
 
 **Mentorias**
 
-- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUÍ](#-vi---solicita-tu-mentoria) están las instrucciones y enlaces para solicitar una sesión.
+- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUI](#-vi---solicita-tu-mentoria) están las instrucciones y enlaces para solicitar una sesión.
 
 **Recursos/artículos de autoestudio**
 
