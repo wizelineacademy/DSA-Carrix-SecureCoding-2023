@@ -8,7 +8,7 @@ Tabla de contenido
 * [I - Bienvenido](#i---bienvenido)
 * [II - Información general del Entrenamiento](#ii---información-general-del-entrenamiento)
 * [III - Calendario](#iii---calendario)
-* [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
+* [IV - Agenda del Entrenamiento](#iv---agenda-del-entrenamiento)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
 * [VI - Solicita Tu Mentoria](#-vi---solicita-tu-mentoria)
 * [VII. Comuníquese con Digital Skills Accelerator](#vii---comuníquese-con-digital-skills-accelerator)
@@ -62,7 +62,7 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 <img width="1225" alt="3" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/031f3c84-1484-4adc-a8fb-006bd8aa2947">
 <img width="1225" alt="4" src="https://github.com/wizelineacademy/Carrix-SecureCoding-2023/assets/115300095/140a4734-a313-4390-99fe-5e1f487813ab">
 
-# IV - Agenda de Capacitación
+# IV - Agenda del Entrenamiento
 
 **Programa de estudios**
 
