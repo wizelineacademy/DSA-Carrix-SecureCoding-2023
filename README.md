@@ -35,7 +35,7 @@ Cronograma:
 
 - Durante las sesiones online se sugiere tener la cámara encendida en todo momento.
 
-- Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia para contactar a Wizeline Digital Skills Accelerator correo electrónico: dsa-carrix@wizeline.com
+- Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com
 
 **Mentorias**
 
