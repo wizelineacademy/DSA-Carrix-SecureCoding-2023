@@ -6,7 +6,7 @@ Tabla de contenido
 ==================
 
 * [I - Bienvenido](#i---bienvenido)
-* [II - Información general de capacitación](#ii---información-general-sobre-el-entrenamiento)
+* [II - Información general del Entrenamiento](#ii---información-general-del-entrenamiento)
 * [III - Calendario](#iii---calendario)
 * [IV - Agenda de Capacitación](#iv---agenda-de-capacitación)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
@@ -17,7 +17,7 @@ Tabla de contenido
 
 Bienvenido a su capacitación sobre codificación segura de Carrix.
 
-# II - Información general sobre el entrenamiento
+# II - Información general del Entrenamiento
 
 Esta capacitación en codificación segura lo equipará con las habilidades que necesita para poder validar y rastrear las mejores prácticas de codificación segura, así como capturar y detectar vulnerabilidades de codificación segura.
 
