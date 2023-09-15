@@ -84,7 +84,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-# MÓDULO 1
+# Modulo 1
 
 **SEMANA 1**
 
@@ -114,7 +114,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-# MÓDULO 2
+# Modulo 2
 
 **SEMANA 3**
 
@@ -144,7 +144,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-# MÓDULO 3
+# Modulo 3
 
 **SEMANA 5**
 
