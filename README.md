@@ -63,7 +63,7 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 
 **Programa de estudios**
 
-Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579400/Espanol.DSA-Carrix.Secure.Coding._.Syllabus._.Wizeline.pdf)
+Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12622152/Dev.DSA-Carrix.Entrenamiento.Documento.Informativo.pdf)
 
 **Desglose de la agenda**
 
