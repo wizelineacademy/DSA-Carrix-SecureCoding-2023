@@ -23,7 +23,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 **Detalles de las sesiones en vivo**
 
-- Son clases online (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1,5 horas cada sesión.
+- Son clases online (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora y 30 minutos cada sesión.
 
 Cronograma:
 
