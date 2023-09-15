@@ -57,7 +57,8 @@ Cronograma:
 
 En este calendario podrás ver las sesiones que están programadas durante el entrenamiento :
 
-
+<img width="1254" alt="1" src="https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/0ed934be-803b-4f02-9288-117acd277f41">
+<img width="1254" alt="2" src="https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/11dd8414-1abc-4d82-8688-ed5b11ffb99a">
 
 # IV - Agenda del Entrenamiento
 
