@@ -30,10 +30,10 @@ Cronograma:
 - **Inicio de la evaluación: 8 de septiembre de 2023**
 - **Período de evaluación: Del 12 de septiembre de 2023 al 15 de septiembre de 2023**
 - **Inicio del entrenamiento: 28 de septiembre de 2023**
-- *Sesiones en vivo: del 2 de octubre de 2023 al 14 de Noviembre de 2023*
-- *Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST*
-- Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.
-- Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com
+- Sesiones en vivo: del 2 de octubre de 2023 al 14 de Noviembre de 2023
+- Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST
+- *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
+- *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
 
 **Mentorias**
 
