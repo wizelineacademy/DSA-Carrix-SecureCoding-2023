@@ -194,11 +194,11 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 
 - Haga clic en alguno de los siguientes enlaces para acceder al calendario para programar su sesión de mentoria
 
-| MENTOR | AGENDAR MENTORIA |
-| ------ | ----- |
-| Grethel Bello Cagnant (Modulo 4 & 5) |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
-| Andres Martinez Mendieta (Modulo 1 & 2) |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
-| Angel Martinez Reyes (Modulo 2) |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) |
+| MENTOR | MODULO | AGENDAR MENTORIA |
+| ------ | ----- | ----- |
+| Grethel Bello Cagnant | Modulo 4 & 5 |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
+| Andres Martinez Mendieta | Modulo 1 & 2 |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
+| Angel Martinez Reyes | Modulo 2 |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) |
 
 - Al agendar la sesión recibirás toda la información necesaria para poder unirse a la sesión de mentoría.
 - Es importante mencionar cuanto agendes to mentoría de la mentoría el tema y/o dudas que se tocaron durante la sesión.
