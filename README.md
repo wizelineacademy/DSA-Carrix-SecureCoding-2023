@@ -200,10 +200,11 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 | Andres Martinez Mendieta |	[AQUI](https://calendly.com/andres-martinez-wizeline) | Modulo 1 & 2 |
 | Angel Martinez Reyes |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) | Modulo 2 |
 
-- Al agendar la sesion recibiras la informacion necesaria para poder unirse a la sesion de mentoria.
+- Al agendar la sesión recibirás toda la información necesaria para poder unirse a la sesión de mentoría.
+- Es importante mencionar cuanto agendes to mentoría de la mentoría el tema y/o dudas que se tocaron durante la sesión.
 - Unirse a la mentoria en la fecha y hora previstas.
 - Si hay necesidad de reagendar o cancelar la sesión, favor de enviar un correo a dsa-carrix@wizeline.com. Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
-- Una vez que finalice la reunión, complete [ESTE] formulario de comentarios al final de su tutorial.
+- Una vez que finalice la reunión, complete [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSesp1Whuk1Ym8kO1A1U3-fJAkl60cMPj-UmHUz9IBbFk3olNw/viewform) formulario de comentarios al final de su tutorial.
 
 Importante:
 
