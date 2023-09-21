@@ -25,7 +25,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 - Son clases online (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora y 30 minutos cada sesión.
 
-Cronograma:
+**Cronograma**
 
 - **Inicio de la evaluación: 8 de septiembre de 2023**
 - **Período de evaluación: Del 12 de septiembre de 2023 al 15 de septiembre de 2023**
