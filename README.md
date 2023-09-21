@@ -60,13 +60,13 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 
 # IV - Agenda del Entrenamiento
 
-**Programa de estudios**
+**Programa del entrenamiento**
 
-Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12622152/Dev.DSA-Carrix.Entrenamiento.Documento.Informativo.pdf)
+Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ]
 
 **Desglose de la agenda**
 
-Los temas se dividen en 6 semanas, 2 sesiones por semana, 2 horas por sesión.
+Los temas se dividen en 7 semanas, 2 sesiones por semana, 1.5 horas por sesión.
 
 **Comentarios de la sesión**
 
