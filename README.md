@@ -1,4 +1,4 @@
-# DSA-Carrix-SecureCoding-2023
+# Seguridad de Aplicaciones y Mejores Prácticas de Seguridad en Codificación
 
 **Capacitación en codificación segura para Carrix**
 
