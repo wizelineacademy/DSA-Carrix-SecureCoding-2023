@@ -27,19 +27,17 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 **Cronograma**
 
-- **Inicio de la evaluación: 8 de septiembre de 2023**
-- **Período de evaluación: Del 12 de septiembre de 2023 al 15 de septiembre de 2023**
-- **Presentacion Inicial : 28 de septiembre de 2023**
-- **Sesiones en vivo: del 2 de octubre de 2023 al 13 de Noviembre de 2023**
-- **Horario de sesiones en vivo: Lunes y Miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST**
-- *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
-- *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
+- **Inicio de la evaluación :** 8 de septiembre de 2023
+- **Período de evaluación :** 12 de septiembre de 2023 al 15 de septiembre de 2023
+- **Presentacion Inicial :** 28 de septiembre de 2023
+- **Sesiones en vivo :** 2 de octubre de 2023 al 13 de Noviembre de 2023
+- **Horario de sesiones en vivo :** Lunes y Miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST
 
 **Fechas Importantes**
 
-- Sesión Informativa Pre-Entrenamiento : Jueves 28 de Septiembre 2023
-- Inicio del Entrenamiento : Lunes 2 de Octubre 2023
-- Retroalimentación a Mitad del Entrenamiento : Martes 24 de Octubre 2023
+- **Sesión Informativa Pre-Entrenamiento :** Jueves 28 de Septiembre 2023
+- **Inicio del Entrenamiento :** Lunes 2 de Octubre 2023
+- **Retroalimentación a Mitad del Entrenamiento :** Martes 24 de Octubre 2023
 - 1er Entregable Proyecto Final : 13 de Octubre 2023
 - 2ndo Entregable Proyecto Final : 3 de Noviembre 2023
 - Fin del Entrenamiento : 13 de Noviembre 2023
@@ -83,7 +81,9 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 
 **Programa del entrenamiento**
 
-Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ]
+- Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ]
+- *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
+- *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
 
 **Desglose del entrenamiento**
 
