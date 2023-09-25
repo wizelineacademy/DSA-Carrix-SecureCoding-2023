@@ -93,7 +93,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 # Programa del Entrenamiento
 
 **Sesión de Inicio / Introducción**
-- *Fecha: mjueves 28 de septiembre de 2023*
+- *Fecha: jueves 28 de septiembre de 2023*
 - *Instructor: DSA y SMEs*
 - [PDF/Material]
 - [Grabación de sesión]
