@@ -29,9 +29,9 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 - **Inicio de la evaluación: 8 de septiembre de 2023**
 - **Período de evaluación: Del 12 de septiembre de 2023 al 15 de septiembre de 2023**
-- **Inicio del entrenamiento: 28 de septiembre de 2023**
-- Sesiones en vivo: del 2 de octubre de 2023 al 14 de Noviembre de 2023
-- Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST
+- **Presentacion Inicial : 28 de septiembre de 2023**
+- **Sesiones en vivo: del 2 de octubre de 2023 al 13 de Noviembre de 2023**
+- **Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST**
 - *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
 - *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
 
@@ -39,7 +39,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 - Parte integral de la dinámica del entrenamiento será el uso de GitHub. Éste se usa como un repositorio central de información y con el fin de que conozcas su funcionamiento y aplicación, se tendrán tres sesiones de onboarding para conocer esta herramienta. A continuación te mostramos los diferentes horarios en los que se darán las sesiones. Tú podrás elegir la que mejor se acomode a tu carga laboral :
 
-**Fechas y Horarios Onboarding GitHub**
+**Fechas, Horarios y Liga de Onboarding GitHub**
 - 3 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
 - 5 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81665524763?pwd=dKKSjo3fFualBaiFdjdCu5VhtHoMi3.1)
 - 6 de Octubre 2023 : 11:00 - 12:30 PM [Zoom](https://wizeline.zoom.us/j/87523154939?pwd=xy8ING8LubdgNfHZPOb2tqqTAblLMj.1)
@@ -75,7 +75,7 @@ Puede ver la información detallada sobre todos los temas tratados durante la ca
 
 **Desglose de la agenda**
 
-Los temas se dividen en 7 semanas, 2 sesiones por semana, 1.5 horas por sesión.
+El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de Noviembre 2023. Los 3 módulos y 13 sesiones del entrenamiento se desglosan en los siguientes temas:
 
 **Comentarios de la sesión**
 
@@ -84,7 +84,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 # Programa del Entrenamiento
 
 **Sesión de Inicio / Introducción**
-- *Fecha: miércoles 27 de septiembre de 2023*
+- *Fecha: mjueves 28 de septiembre de 2023*
 - *Instructor: DSA y SMEs*
 - [PDF/Material]
 - [Grabación de sesión]
