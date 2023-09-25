@@ -31,21 +31,21 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - **Período de evaluación: Del 12 de septiembre de 2023 al 15 de septiembre de 2023**
 - **Presentacion Inicial : 28 de septiembre de 2023**
 - **Sesiones en vivo: del 2 de octubre de 2023 al 13 de Noviembre de 2023**
-- **Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST**
+- **Horario de sesiones en vivo: Lunes y Miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST**
 - *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
 - *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
 
 **Fechas Importantes**
 
-Sesión Informativa Pre-Entrenamiento : Jueves 28 de Septiembre 2023
-Inicio del Entrenamiento : Lunes 2 de Octubre 2023
-Retroalimentación a Mitad del Entrenamiento : Martes 24 de Octubre 2023
-1er Entregable Proyecto Final : 13 de Octubre 2023
-2ndo Entregable Proyecto Final : 3 de Noviembre 2023
-Fin del Entrenamiento : 13 de Noviembre 2023
-3er Entregable Proyecto Final : 17 de Noviembre 2023
-Presentacion Proyecto Final  : 21 de Noviembre 2023
-Retroalimentación Final del Entrenamiento :  22 de Noviembre 2023
+- Sesión Informativa Pre-Entrenamiento : Jueves 28 de Septiembre 2023
+- Inicio del Entrenamiento : Lunes 2 de Octubre 2023
+- Retroalimentación a Mitad del Entrenamiento : Martes 24 de Octubre 2023
+- 1er Entregable Proyecto Final : 13 de Octubre 2023
+- 2ndo Entregable Proyecto Final : 3 de Noviembre 2023
+- Fin del Entrenamiento : 13 de Noviembre 2023
+- 3er Entregable Proyecto Final : 17 de Noviembre 2023
+- Presentacion Proyecto Final  : 21 de Noviembre 2023
+- Retroalimentación Final del Entrenamiento :  22 de Noviembre 2023
 
 **Onboarding GitHub**
 
