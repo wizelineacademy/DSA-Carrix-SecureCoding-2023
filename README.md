@@ -34,12 +34,15 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST
 - *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
 - *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
-- Onboarding GitHub : Parte integral de la dinámica del entrenamiento será el uso de GitHub. Éste se usa como un repositorio central de información y con el fin de que conozcas su funcionamiento y aplicación, se tendrán tres sesiones de onboarding para conocer esta herramienta. A continuación te mostramos los diferentes horarios en los que se darán las sesiones. Tú podrás elegir la que mejor se acomode a tu carga laboral :
+
+**Onboarding GitHub**
+
+- Parte integral de la dinámica del entrenamiento será el uso de GitHub. Éste se usa como un repositorio central de información y con el fin de que conozcas su funcionamiento y aplicación, se tendrán tres sesiones de onboarding para conocer esta herramienta. A continuación te mostramos los diferentes horarios en los que se darán las sesiones. Tú podrás elegir la que mejor se acomode a tu carga laboral :
 
 - Fechas y Horarios
-3 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
-5 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81665524763?pwd=dKKSjo3fFualBaiFdjdCu5VhtHoMi3.1)
-6 de Octubre 2023 : 11:00 - 12:30 PM [Zoom](https://wizeline.zoom.us/j/87523154939?pwd=xy8ING8LubdgNfHZPOb2tqqTAblLMj.1)
+- 3 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
+- 5 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81665524763?pwd=dKKSjo3fFualBaiFdjdCu5VhtHoMi3.1)
+- 6 de Octubre 2023 : 11:00 - 12:30 PM [Zoom](https://wizeline.zoom.us/j/87523154939?pwd=xy8ING8LubdgNfHZPOb2tqqTAblLMj.1)
 
 **Mentorias**
 
