@@ -35,6 +35,18 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
 - *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
 
+**Fechas Importantes**
+
+Sesión Informativa Pre-Entrenamiento : Jueves 28 de Septiembre 2023
+Inicio del Entrenamiento : Lunes 2 de Octubre 2023
+Retroalimentación a Mitad del Entrenamiento : Martes 24 de Octubre 2023
+1er Entregable Proyecto Final : 13 de Octubre 2023
+2ndo Entregable Proyecto Final : 3 de Noviembre 2023
+Fin del Entrenamiento : 13 de Noviembre 2023
+3er Entregable Proyecto Final : 17 de Noviembre 2023
+Presentacion Proyecto Final  : 21 de Noviembre 2023
+Retroalimentación Final del Entrenamiento :  22 de Noviembre 2023
+
 **Onboarding GitHub**
 
 - Parte integral de la dinámica del entrenamiento será el uso de GitHub. Éste se usa como un repositorio central de información y con el fin de que conozcas su funcionamiento y aplicación, se tendrán tres sesiones de onboarding para conocer esta herramienta. A continuación te mostramos los diferentes horarios en los que se darán las sesiones. Tú podrás elegir la que mejor se acomode a tu carga laboral :
@@ -73,13 +85,9 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 
 Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ]
 
-**Desglose de la agenda**
+**Desglose del entrenamiento**
 
 El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de Noviembre 2023. Los 3 módulos y 13 sesiones del entrenamiento se desglosan en los siguientes temas:
-
-**Comentarios de la sesión**
-
-Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
 
 # Programa del Entrenamiento
 
@@ -187,11 +195,9 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material]
 - [Grabación de sesión]
 
-**Sesión 14: Entregable del proyecto final**
-- *Fecha: 14 de noviembre de 2023*
-- *Instructor: DSA y SMEs*
-- [PDF/Material]
-- [Grabación de sesión]
+**Comentarios de la sesión**
+
+Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
 
 # V - Proyecto Final (Proyecto Capstone)
 
