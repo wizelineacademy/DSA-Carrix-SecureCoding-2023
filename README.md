@@ -1,11 +1,11 @@
 # Seguridad de Aplicaciones y Mejores Prácticas de Seguridad en Codificación
 
-**Capacitación en codificación segura para Carrix**
+**Entrenamiento para Carrix**
 
 Tabla de contenido
 ==================
 
-* [I - Bienvenido](#i---bienvenido)
+* [I - Bienvenida](#i---bienvenida)
 * [II - Información general del Entrenamiento](#ii---información-general-del-entrenamiento)
 * [III - Calendario](#iii---calendario)
 * [IV - Agenda del Entrenamiento](#iv---agenda-del-entrenamiento)
@@ -13,7 +13,7 @@ Tabla de contenido
 * [VI - Solicita Tu Mentoria](#-vi---solicita-tu-mentoria)
 * [VII. Comuníquese con Digital Skills Accelerator](#vii---comuníquese-con-digital-skills-accelerator)
 
-# I - Bienvenido
+# I - Bienvenida
 
 Bienvenido a su capacitación sobre codificación segura de Carrix.
 
@@ -34,10 +34,16 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - Horario de sesiones en vivo: lunes y miércoles (cada semana) de 5:00 p. m. CST a 6:30 p. m. CST
 - *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
 - *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
+- Onboarding GitHub : Parte integral de la dinámica del entrenamiento será el uso de GitHub. Éste se usa como un repositorio central de información y con el fin de que conozcas su funcionamiento y aplicación, se tendrán tres sesiones de onboarding para conocer esta herramienta. A continuación te mostramos los diferentes horarios en los que se darán las sesiones. Tú podrás elegir la que mejor se acomode a tu carga laboral :
+
+- Fechas y Horarios
+3 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81148169538?pwd=ucTzbMMHPd6pSLDYz40SMzIJEh3Xif.1)
+5 de Octubre : 5:00 - 6:30 PM [Zoom](https://wizeline.zoom.us/j/81665524763?pwd=dKKSjo3fFualBaiFdjdCu5VhtHoMi3.1)
+6 de Octubre 2023 : 11:00 - 12:30 PM [Zoom](https://wizeline.zoom.us/j/87523154939?pwd=xy8ING8LubdgNfHZPOb2tqqTAblLMj.1)
 
 **Mentorias**
 
-- Son sesiones en las que podrás interactuar con los ingenieros de Wizeline para resolver cualquier duda que tengas sobre los temas tratados en las sesiones en vivo, el material de autoaprendizaje o sobre el proyecto final. Las tutorías duran 1 hora, son en línea y bajo demanda. [AQUI](#-vi---solicita-tu-mentoria) están las instrucciones y enlaces para solicitar una sesión.
+- Las mentorías son un espacio de 1 hora donde podrás resolver y despejar dudas sobre temas cubiertos en cualquiera de las sesiones impartidas, las cuales serán programadas en base a tu disponibilidad y tiempo preferencial junto con los expertos en Wizeline por medio de Calendly. La herramienta Calendly ayuda a poder agendar tu sesión de mentoría de manera visual de una manera rápida y sencilla. [AQUI](#-vi---solicita-tu-mentoria) están las instrucciones y enlaces para solicitar una sesión.
 
 **Recursos/artículos de autoestudio**
 
