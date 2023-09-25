@@ -74,9 +74,9 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 
 En este calendario podrás ver las sesiones que están programadas durante el entrenamiento :
 
-![1](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/2d39c43f-7fee-4bf1-8be7-cb4daf05bbe6)
-![2](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/69ea81bd-8686-481b-9af1-c8ed7116aff4)
-![3](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/9d387c62-8cd7-460c-b915-025d1eb1143e)
+![1](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/b44512ce-0f2c-4cda-8e6f-fcb42d0c0cc3)
+![2](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/7698916c-0fc8-4781-bd58-0b351d7ff289)
+![3](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/31487a6c-f775-4a9a-a51c-2bc001ee3aa8)
 
 # IV - Agenda del Entrenamiento
 
