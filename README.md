@@ -10,7 +10,7 @@ Tabla de contenido
 * [III - Calendario](#iii---calendario)
 * [IV - Agenda del Entrenamiento](#iv---agenda-del-entrenamiento)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
-* [VI - Solicita Tu Mentoria](#-vi---solicita-tu-mentoria)
+* [VI - Agenda Tu Mentoria](#-vi---agenda-tu-mentoria)
 * [VII. Comuníquese con Digital Skills Accelerator](#vii---comuníquese-con-digital-skills-accelerator)
 
 # I - Bienvenida
@@ -207,7 +207,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 ✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ]
 
-# 📆 VI - Solicita Tu Mentoria
+# 📆 VI - Agenda Tu Mentoria
 
 En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto de Wizeline. Aquí te explicamos cómo:
 
