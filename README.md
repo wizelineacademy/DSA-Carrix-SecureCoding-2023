@@ -215,7 +215,6 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 
 | MENTOR | MODULO | AGENDAR MENTORIA |
 | ------ | ----- | ----- |
-| Grethel Bello Cagnant | Modulo 4 & 5 |	[AQUI](https://calendly.com/grethel-bello-wizeline) |
 | Andres Martinez Mendieta | Modulo 1 & 2 |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
 | Angel Martinez Reyes | Modulo 2 |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) |
 
