@@ -59,7 +59,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - Las mentorías son un espacio de 1 hora donde podrás resolver y despejar dudas sobre temas cubiertos en cualquiera de las sesiones impartidas. Podrás programar las mentorías con base en la disponibilidad de los mentores de Wizeline. 
 - Cada semana, los mentores estarán actualizando sus espacios de tiempo de acuerdo a su disponibilidad y los temas que se abordarán en la semana de entrenamiento. 
 
-[AQUI](#-vi---solicita-tu-mentoria) encontraras las instrucciones y enlaces para solicitar una sesión.
+[AQUI](#-vi---agenda-tu-mentoria) encontraras las instrucciones y enlaces para solicitar una sesión.
 
 **Recursos/artículos de autoestudio**
 
