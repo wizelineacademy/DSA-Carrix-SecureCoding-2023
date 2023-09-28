@@ -222,14 +222,14 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 - Es necesario que al agendar tu sesión de mentoría, se deberá incluir el tema y/o dudas que se tratarán durante la sesión, con la intención de saber de antemano en qué temas necesitas ayuda.
 - Unirse a la mentoria en la fecha y hora previstas.
 - Si hay necesidad de reagendar o cancelar la sesión, favor de enviar un correo a dsa-carrix@wizeline.com. Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
-- Una vez que finalice la reunión, complete [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSesp1Whuk1Ym8kO1A1U3-fJAkl60cMPj-UmHUz9IBbFk3olNw/viewform) formulario de comentarios al final de su tutorial.
+- Una vez que finalice la reunión, completa [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSesp1Whuk1Ym8kO1A1U3-fJAkl60cMPj-UmHUz9IBbFk3olNw/viewform) formulario de comentarios al final de tu mentoria.
 
 Importante:
 
-- Si no puede asistir a la reunión, envíe un correo electrónico a dsa-carrix@wizeline.com
-- Si llega tarde, envíe un mensaje en Teams para informar al mentor y a DSA.
+- Si no puedes asistir a la reunión, envía un correo electrónico a dsa-carrix@wizeline.com
+- Si llegas tarde, envía un mensaje en Teams para informar al mentor y a DSA.
 - Los mentores solo esperarán 10 minutos si no se les notifica y luego se desconectarán de la llamada.
-- Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
+- Si aún necesitas la sesión, reserva otra sesión siguiendo el mismo procedimiento.
 
 # VII - Comuníquese con Digital Skills Accelerator
 
