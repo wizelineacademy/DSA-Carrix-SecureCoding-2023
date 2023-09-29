@@ -216,6 +216,7 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 | MENTOR | MODULO | AGENDAR MENTORIA |
 | ------ | ----- | ----- |
 | Andres Martinez Mendieta | Modulo 1 & 2 |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
+| Mauricio Sotelo | Modulo 1 & 3 | [AQUI](https://calendly.com/mauricio_sotelo) |
 | Angel Martinez Reyes | Modulo 2 |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) |
 
 - Al agendar la sesión recibirás toda la información necesaria para poder unirse a la sesión de mentoría.
