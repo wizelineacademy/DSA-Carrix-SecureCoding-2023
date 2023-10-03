@@ -166,7 +166,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **SEMANA 5**
 
 **Sesión 9: Criptografía**
-- *Fecha: Lunes 30 de octubre de 2023*
+- *Fecha: Lunes 30 de Octubre de 2023*
 - *Instructor: Arturo García Martín del Campo*
 - [PDF/Material]
 - [Grabación de sesión]
