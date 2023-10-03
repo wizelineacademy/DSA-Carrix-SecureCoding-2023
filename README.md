@@ -96,7 +96,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 # Programa del Entrenamiento
 
 **Sesión de Inicio / Introducción**
-- *Fecha: jueves 28 de septiembre de 2023*
+- *Fecha: Jueves 28 de Septiembre de 2023*
 - *Instructor: DSA y SMEs*
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12732344/Documento.Informativo.Etapa.Entrenamiento_DSA-Carrix.pdf)
 - [Grabación de sesión](https://youtu.be/jqh5b8tdgBo)
@@ -106,13 +106,13 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **SEMANA 1**
 
 **Sesión 1: Importancia de la seguridad de las aplicaciones**
-- *Fecha: lunes 2 de octubre de 2023*
+- *Fecha: Lunes 2 de Octubre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12787479/Importancia.de.la.seguridad.de.las.aplicaciones.pdf)
 - [Grabación de sesión](https://youtu.be/AzMaEPVa3F0)
 
 **Sesión 2: Mejores prácticas en codificación**
-- *Fecha: miércoles 4 de octubre de 2023*
+- *Fecha: Miércoles 4 de Octubre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
 - [Grabación de sesión]
@@ -120,13 +120,13 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **SEMANA 2**
 
 **Sesión 3: Prácticas de codificación segura**
-- *Fecha: lunes 9 de octubre de 2023*
+- *Fecha: Lunes 9 de Octubre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
 - [Grabación de sesión]
 
 **Sesión 4: Mejores prácticas de software**
-- *Fecha: miércoles 11 de octubre de 2023*
+- *Fecha: Miércoles 11 de Octubre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
 - [Grabación de sesión]
@@ -136,13 +136,13 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **SEMANA 3**
 
 **Sesión 5: Principios de codificación segura**
-- *Fecha: lunes 16 de octubre de 2023*
+- *Fecha: Lunes 16 de Octubre de 2023*
 - *Instructor: Miguel Ángel Martínez Reyes*
 - [PDF/Material]
 - [Grabación de sesión]
 
 **Sesión 6: Validación de entradas**
-- *Fecha: miércoles 18 de octubre de 2023*
+- *Fecha: Miércoles 18 de Octubre de 2023*
 - *Instructor: Miguel Ángel Martínez Reyes*
 - [PDF/Material]
 - [Grabación de sesión]
@@ -150,13 +150,13 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **SEMANA 4**
 
 **Sesión 7: Autenticación y autorización**
-- *Fecha: lunes 23 de octubre de 2023*
+- *Fecha: Lunes 23 de Octubre de 2023*
 - *Instructor: Miguel Ángel Martínez Reyes*
 - [PDF/Material]
 - [Grabación de sesión]
 
 **Sesión 8: Estándares de protección de datos**
-- *Fecha: miércoles 25 de octubre de 2023*
+- *Fecha: Miércoles 25 de Octubre de 2023*
 - *Instructor: Miguel Ángel Martínez Reyes*
 - [PDF/Material]
 - [Grabación de sesión]
@@ -166,13 +166,13 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **SEMANA 5**
 
 **Sesión 9: Criptografía**
-- *Fecha: lunes 30 de octubre de 2023*
+- *Fecha: Lunes 30 de octubre de 2023*
 - *Instructor: Arturo García Martín del Campo*
 - [PDF/Material]
 - [Grabación de sesión]
 
 **Sesión 10: Marco de evaluación de riesgos**
-- *Fecha: miércoles 1 de noviembre de 2023*
+- *Fecha: miércoles 1 de Noviembre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
 - [Grabación de sesión]
@@ -180,13 +180,13 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **SEMANA 6**
 
 **Sesión 11: Categorización de vulnerabilidades**
-- *Fecha: lunes 6 de noviembre de 2023*
+- *Fecha: Lunes 6 de Noviembre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
 - [Grabación de sesión]
 
 **Sesión 12: Identificación de vulnerabilidades**
-- *Fecha: miércoles 8 de noviembre de 2023*
+- *Fecha: Miércoles 8 de Noviembre de 2023*
 - *Instructor: Guillermo Esguerra Bautista*
 - [PDF/Material]
 - [Grabación de sesión]
@@ -194,7 +194,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **SEMANA 7**
 
 **Sesión 13: Mitigación y remediación de vulnerabilidades**
-- *Fecha: lunes 13 de noviembre de 2023*
+- *Fecha: Lunes 13 de Noviembre de 2023*
 - *Instructor: Guillermo Esguerra Bautista*
 - [PDF/Material]
 - [Grabación de sesión]
