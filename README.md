@@ -99,7 +99,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 - *Fecha: jueves 28 de septiembre de 2023*
 - *Instructor: DSA y SMEs*
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12732344/Documento.Informativo.Etapa.Entrenamiento_DSA-Carrix.pdf)
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/jqh5b8tdgBo)
 
 # Modulo 1
 
@@ -109,7 +109,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 - *Fecha: lunes 2 de octubre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12787479/Importancia.de.la.seguridad.de.las.aplicaciones.pdf)
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/AzMaEPVa3F0)
 
 **Sesión 2: Mejores prácticas en codificación**
 - *Fecha: miércoles 4 de octubre de 2023*
