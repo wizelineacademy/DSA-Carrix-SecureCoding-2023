@@ -38,7 +38,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - **Sesión Informativa Pre-Entrenamiento :** Jueves 28 de Septiembre 2023
 - **Inicio del Entrenamiento :** Lunes 2 de Octubre 2023
 - **Retroalimentación a Mitad del Entrenamiento :** Martes 24 de Octubre 2023
-- 1er Entregable Proyecto Final : 13 de Octubre 2023
+- 1er Entregable Proyecto Final : 20 de Octubre 2023
 - 2ndo Entregable Proyecto Final : 3 de Noviembre 2023
 - Fin del Entrenamiento : 13 de Noviembre 2023
 - 3er Entregable Proyecto Final : 17 de Noviembre 2023
