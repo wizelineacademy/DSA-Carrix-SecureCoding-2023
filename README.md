@@ -85,7 +85,7 @@ En este calendario podrás ver las sesiones que están programadas durante el en
 
 **Programa del entrenamiento**
 
-- Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12732344/Documento.Informativo.Etapa.Entrenamiento_DSA-Carrix.pdf)
+- Puede ver la información detallada sobre todos los temas tratados durante la capacitación por sesión, haciendo clic [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12806654/Documento.Informativo.Etapa.Entrenamiento_DSA-Carrix.pdf)
 - *Durante las sesiones en linea se sugiere tener la cámara encendida en todo momento.*
 - *Si no puedes asistir a alguna sesión virtual, debes informar a tu líder con copia a Wizeline Digital Skills Accelerator : dsa-carrix@wizeline.com*
 
@@ -98,7 +98,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **Sesión de Inicio / Introducción**
 - *Fecha: Jueves 28 de Septiembre de 2023*
 - *Instructor: DSA y SMEs*
-- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12732344/Documento.Informativo.Etapa.Entrenamiento_DSA-Carrix.pdf)
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12806654/Documento.Informativo.Etapa.Entrenamiento_DSA-Carrix.pdf)
 - [Grabación de sesión](https://youtu.be/jqh5b8tdgBo)
 
 # Modulo 1
