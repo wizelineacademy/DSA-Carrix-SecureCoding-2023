@@ -115,7 +115,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 - *Fecha: Miércoles 4 de Octubre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/E8W_84Qbl0M)
 
 **SEMANA 2**
 
