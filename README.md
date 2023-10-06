@@ -203,6 +203,15 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 
 Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https://docs.google.com/forms/d/e/1FAIpQLScDJGW_5dD1aqGpy0otdjXtkE1dFlsQ-qDseqJmZ8iDYkMNqg/viewform) para ayudarnos a mejorar su experiencia de aprendizaje.
 
+---------------------------------------------------------------
+**Onboarding Git**
+
+**OnBoarding GitHub Sesion**
+- *Fecha: Martes 3, Jueves 5 y Viernes 6 de Octubre 2023*
+- *Instructor: Maritza Esparza*
+- [PDF/Material](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
+- [Grabación de sesión](https://youtu.be/b7pcnnhb4G0)
+
 # V - Proyecto Final (Proyecto Capstone)
 
 ✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12834119/Capstone.Project_Proyecto.Final._.DSA-Carrix.pdf)
