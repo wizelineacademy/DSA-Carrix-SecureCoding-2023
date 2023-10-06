@@ -1,5 +1,7 @@
 # V - Proyecto Final (Proyecto Capstone)
 
+Puedes encontrar el documento con el desglose del Proyecto Final y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12834119/Capstone.Project_Proyecto.Final._.DSA-Carrix.pdf)
+
 # Entregable 1
 
 - Integración de puntuación : 50
@@ -45,7 +47,7 @@ los elementos que tendrá el sitio web (descritos a continuación)
 
 - Integración de puntuación : 40
 - Fecha : 17 de Noviembre 2023
-- Formato de Envio : GitHub
+- Formato de Envio : FVR
 
 1. Utiliza Microsoft Threat Modelling Tool para replicar tu arquitectura y detectar riesgos
 2. Utiliza el navegador MITRE ATT&CK para detectar riesgos de acuerdo a los grupos cibercriminales que pudieran ser de interés para el contexto de tu desarrollo
