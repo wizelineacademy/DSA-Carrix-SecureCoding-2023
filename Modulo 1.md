@@ -1,4 +1,4 @@
-# Modulo 1
+# MODULO 1
 
 **SEMANA 1**
 
