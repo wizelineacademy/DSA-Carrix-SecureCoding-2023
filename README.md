@@ -212,14 +212,16 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - [PDF/Material](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
 - [Grabación de sesión](https://youtu.be/b7pcnnhb4G0)
 
-**OnBoarding GitHub Sesion**
+**Capstone Project Explication**
 
 # V - Explicacion Proyecto Final (Proyecto Capstone)
 - *Fecha: Martes 3, Jueves 5 y Viernes 6 de Octubre 2023*
 - *Instructor: Arturo Garcia*
-- [PDF/Material]
-- [Grabación de sesión]
-- 
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12834119/Capstone.Project_Proyecto.Final._.DSA-Carrix.pdf)
+- [Grabación de sesión](https://youtu.be/jMkYtdhjp-E)
+
+# V - Proyecto Final (Proyecto Capstone)
+
 ✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12834119/Capstone.Project_Proyecto.Final._.DSA-Carrix.pdf)
 
 # 📆 VI - Agenda Tu Mentoria
