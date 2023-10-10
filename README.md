@@ -123,7 +123,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 - *Fecha: Lunes 9 de Octubre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/Bi3kZK_4vqM)
 
 **Sesión 4: Mejores prácticas de software**
 - *Fecha: Miércoles 11 de Octubre de 2023*
