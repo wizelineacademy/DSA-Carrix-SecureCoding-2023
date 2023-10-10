@@ -19,8 +19,8 @@
 **Sesión 3: Prácticas de codificación segura**
 - *Fecha: Lunes 9 de Octubre de 2023*
 - *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12861149/Secure.Coding.Practices.pdf)
+- [Grabación de sesión](https://youtu.be/Bi3kZK_4vqM)
 
 **Sesión 4: Mejores prácticas de software**
 - *Fecha: Miércoles 11 de Octubre de 2023*
