@@ -213,12 +213,13 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 **Explicacion Proyecto Final (Proyecto Capstone)**
 - *Fecha: Jueves 5 de Octubre 2023*
 - *Instructor: Arturo Garcia*
-- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885619/DSA-Carrix._.Capstone.Project._.Devs.pdf)
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885648/DSA-Carrix._.Proyecto.Final._.Devs.pdf)
 - [Grabación de sesión](https://youtu.be/jMkYtdhjp-E)
 
 # V - Proyecto Final (Proyecto Capstone)
 
-✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885619/DSA-Carrix._.Capstone.Project._.Devs.pdf)
+✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885648/DSA-Carrix._.Proyecto.Final._.Devs.pdf)
+
 # 📆 VI - Agenda Tu Mentoria
 
 En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto de Wizeline. Aquí te explicamos cómo:
@@ -235,7 +236,7 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 - Es necesario que al agendar tu sesión de mentoría, se deberá incluir el tema y/o dudas que se tratarán durante la sesión, con la intención de saber de antemano en qué temas necesitas ayuda.
 - Unirse a la mentoria en la fecha y hora previstas.
 - Si hay necesidad de reagendar o cancelar la sesión, favor de enviar un correo a dsa-carrix@wizeline.com. Si aún necesita la sesión, reserve otra sesión siguiendo el mismo procedimiento.
-- Una vez que finalice la reunión, completa [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSesp1Whuk1Ym8kO1A1U3-fJAkl60cMPj-UmHUz9IBbFk3olNw/viewform) formulario de comentarios al final de tu mentoria.
+- Una vez que finalice la sesión, ayudanos completando [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSesp1Whuk1Ym8kO1A1U3-fJAkl60cMPj-UmHUz9IBbFk3olNw/viewform) formulario de comentarios al final de tu mentoria.
 
 Importante:
 
