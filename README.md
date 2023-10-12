@@ -213,13 +213,12 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 **Explicacion Proyecto Final (Proyecto Capstone)**
 - *Fecha: Jueves 5 de Octubre 2023*
 - *Instructor: Arturo Garcia*
-- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12834119/Capstone.Project_Proyecto.Final._.DSA-Carrix.pdf)
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885619/DSA-Carrix._.Capstone.Project._.Devs.pdf)
 - [Grabación de sesión](https://youtu.be/jMkYtdhjp-E)
 
 # V - Proyecto Final (Proyecto Capstone)
 
-✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12834119/Capstone.Project_Proyecto.Final._.DSA-Carrix.pdf)
-
+✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885619/DSA-Carrix._.Capstone.Project._.Devs.pdf)
 # 📆 VI - Agenda Tu Mentoria
 
 En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto de Wizeline. Aquí te explicamos cómo:
