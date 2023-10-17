@@ -5,7 +5,7 @@ Puedes encontrar el documento con el desglose del Proyecto Final y las fechas de
 # Entregable 1
 
 - Integración de puntuación : 50
-- Fecha : 20 de Octubre 2023
+- Fecha : 24 de Octubre 2023
 - Formato de Envio : GitHub
 
 1. Escanea el código https://github.com/TsuyoshiUshio/ VulnerableApp con SonarQube
