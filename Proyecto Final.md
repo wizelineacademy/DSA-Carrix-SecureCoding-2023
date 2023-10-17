@@ -2,6 +2,8 @@
 
 Puedes encontrar el documento con el desglose del Proyecto Final y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885648/DSA-Carrix._.Proyecto.Final._.Devs.pdf)
 
+Plantilla de Reporte de Vulnerabilidades [AQUI](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12969450/Reporte.de.Vulnerabilidad.docx)
+
 # Entregable 1
 
 - Integración de puntuación : 50
