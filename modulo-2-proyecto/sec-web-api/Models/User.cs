@@ -69,6 +69,7 @@ namespace sec_web_api.Models
                 var emailClaim = identity.Claims.FirstOrDefault(x => x.Type == "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value;
                 Console.WriteLine("Email from claim: " + emailClaim);
                 var user = db.FirstOrDefault(x => x.email == emailClaim);
+                Console.WriteLine("User Found: " + user);
 
                 return new
                 {
@@ -95,5 +96,13 @@ namespace sec_web_api.Models
         [RegularExpression("^[a-zA-Z0-9!-_]{8}$", ErrorMessage = "Invalid password policy")]
         [Compare("password", ErrorMessage = "Passwords do not match.")]
         public string confirmPassword { get; set; }
+    }
+
+    public class SQLServerContext : DBContext
+    {
+        public SQLServerContext(DbContextOptions<SQLServerContext> options) : base(options)
+        {
+        }
+        public DbSet<User> Users { get; set; }
     }
 }
