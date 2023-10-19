@@ -144,7 +144,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **Sesión 6: Validación de Entradas**
 - *Fecha: Miércoles 18 de Octubre de 2023*
 - *Instructor: Miguel Ángel Martínez Reyes*
-- [PDF/Material]
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13045920/Validacion.de.Entradas.pdf)
 - [Grabación de sesión](https://youtu.be/4RJMZ4gvulQ)
 
 **SEMANA 4**
