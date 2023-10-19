@@ -231,6 +231,7 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 | Andres Martinez | Modulo 1 & 2 |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
 | Mauricio Sotelo | Modulo 1 & 3 | [AQUI](https://calendly.com/mauricio_sotelo) |
 | Angel Martinez | Modulo 2 |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) |
+| Guillermo Esguerra | Modulo 1, 2 & 3 | [AQUI](https://calendly.com/gesguerra-wizeline/30min)
 
 - Al agendar la sesión recibirás toda la información necesaria para poder unirse a la sesión de mentoría.
 - Es necesario que al agendar tu sesión de mentoría, se deberá incluir el tema y/o dudas que se tratarán durante la sesión, con la intención de saber de antemano en qué temas necesitas ayuda.
