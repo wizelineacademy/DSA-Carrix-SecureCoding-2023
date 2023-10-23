@@ -1,8 +1,8 @@
 # V - Proyecto Final (Proyecto Capstone)
 
--Puedes encontrar el documento con el desglose del Proyecto Final y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885648/DSA-Carrix._.Proyecto.Final._.Devs.pdf)
--Formulario de envio de Entregables [AQUI](https://docs.google.com/forms/d/e/1FAIpQLScdGI8T8lnX_QrIqqGGfq5czKqWQokK8vx3AW1nYpwi6s4KlA/viewform)
--Plantilla de Reporte de Vulnerabilidades [AQUI](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12969450/Reporte.de.Vulnerabilidad.docx)
+- Puedes encontrar el documento con el desglose del Proyecto Final y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885648/DSA-Carrix._.Proyecto.Final._.Devs.pdf)
+- Formulario de envio de Entregables [AQUI](https://docs.google.com/forms/d/e/1FAIpQLScdGI8T8lnX_QrIqqGGfq5czKqWQokK8vx3AW1nYpwi6s4KlA/viewform)
+- Plantilla de Reporte de Vulnerabilidades [AQUI](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12969450/Reporte.de.Vulnerabilidad.docx)
 
 # Entregable 1
 
