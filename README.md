@@ -152,7 +152,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **Sesión 7: Autenticación y autorización**
 - *Fecha: Lunes 23 de Octubre de 2023*
 - *Instructor: Miguel Ángel Martínez Reyes*
-- [PDF/Material]
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13125234/Sesion.7.-.Autorizacion.y.Autenticacion.pdf)
 - [Grabación de sesión]
 
 **Sesión 8: Estándares de protección de datos**
