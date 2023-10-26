@@ -22,8 +22,8 @@
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13125234/Sesion.7.-.Autorizacion.y.Autenticacion.pdf)
 - [Grabación de sesión](https://youtu.be/HoXKi0TUUCU)
 
-**Sesión 8: Estándares de protección de datos**
+**Sesión 8: Estándares de Protección de Datos**
 - *Fecha: Miércoles 25 de Octubre de 2023*
 - *Instructor: Miguel Ángel Martínez Reyes*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13173083/Estandares.de.Proteccion.de.Datos.pdf)
+- [Grabación de sesión](https://youtu.be/GW2_Gz8WPZs)
