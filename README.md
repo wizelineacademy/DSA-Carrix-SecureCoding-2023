@@ -70,6 +70,7 @@ Esta capacitación en codificación segura lo equipará con las habilidades que 
 - [Secure Coding Guidelines](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12579602/Secure.Coding.Guidelines.pdf)
 - [Mitre ATT&CK](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13191707/Mitre.Attack.pdf)
 - [Microsoft Threat Modeling](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13191704/Microsoft.Threat.-.Modelado.de.Amenazas.pdf)
+- [Criptografía](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13210368/Cryptography.pdf)
 
 **Proyecto final**
 
