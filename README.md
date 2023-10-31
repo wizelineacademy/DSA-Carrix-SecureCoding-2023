@@ -164,15 +164,17 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13173083/Estandares.de.Proteccion.de.Datos.pdf)
 - [Grabación de sesión](https://youtu.be/GW2_Gz8WPZs)
 
-# Modulo 3
-
 **SEMANA 5**
 
 **Sesión 9: Criptografía**
 - *Fecha: Lunes 30 de Octubre de 2023*
 - *Instructor: Arturo García Martín del Campo*
-- [PDF/Material]
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13220324/Sesion.9.pdf)
 - [Grabación de sesión]
+
+# Modulo 3
+
+**SEMANA 5**
 
 **Sesión 10: Marco de evaluación de riesgos**
 - *Fecha: miércoles 1 de Noviembre de 2023*
