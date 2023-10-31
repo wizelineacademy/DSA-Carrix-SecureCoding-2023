@@ -34,4 +34,4 @@
 - *Fecha: Lunes 30 de Octubre de 2023*
 - *Instructor: Arturo García Martín del Campo*
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13220324/Sesion.9.pdf)
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/kfilswNm8ck)
