@@ -170,7 +170,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 - *Fecha: Lunes 30 de Octubre de 2023*
 - *Instructor: Arturo García Martín del Campo*
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13220324/Sesion.9.pdf)
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/kfilswNm8ck)
 
 # Modulo 3
 
