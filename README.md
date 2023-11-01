@@ -218,7 +218,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 **Explicacion Proyecto Final (Proyecto Capstone)**
 - *Fecha: Jueves 5 de Octubre 2023*
 - *Instructor: Arturo Garcia*
-- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885648/DSA-Carrix._.Proyecto.Final._.Devs.pdf)
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13230752/Proyecto.Final.pdf)
 - [Grabación de sesión](https://youtu.be/jMkYtdhjp-E)
 
 **Mentoria Grupal 1**
