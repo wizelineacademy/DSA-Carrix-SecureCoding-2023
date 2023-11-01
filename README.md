@@ -229,7 +229,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 
 # V - Proyecto Final (Proyecto Capstone)
 
-✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12885648/DSA-Carrix._.Proyecto.Final._.Devs.pdf)
+✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13230752/Proyecto.Final.pdf)
 
 # 📆 VI - Agenda Tu Mentoria
 
