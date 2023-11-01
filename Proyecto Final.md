@@ -24,7 +24,7 @@ positivos (Hallazgos que en realidad son falsos positivos)
 # Entregable 2
 
 - Integración de puntuación : 10
-- Fecha : 3 de Noviembre 2023
+- Fecha : 14 de Noviembre 2023
 - Formato de Envio : GitHub
 
 1. Desarrolla una aplicación con el lenguaje de tu preferencia, donde le des la oportunidad al usuario de introducir cadenas de texto.
@@ -37,7 +37,7 @@ positivos (Hallazgos que en realidad son falsos positivos)
 # Entregable 3
 
 - Integración de puntuación : 40
-- Fecha : 17 de Noviembre 2023
+- Fecha : 1 de Diciembre 2023
 - Formato de Envio : FVR
 
 1. Utiliza Microsoft Threat Modelling Tool para detectar riesgos en la arquitectura compartida por Wizeline.
