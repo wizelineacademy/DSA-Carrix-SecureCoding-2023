@@ -176,7 +176,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 
 **SEMANA 5**
 
-**Sesión 10: Marco de evaluación de riesgos**
+**Sesión 10: Marco de Evaluación de Riesgos**
 - *Fecha: miércoles 1 de Noviembre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
