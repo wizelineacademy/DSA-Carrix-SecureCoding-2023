@@ -8,7 +8,7 @@
 - [PDF/Material]
 - [Grabación de sesión]
 
-**Sesión 10: Marco de evaluación de riesgos**
+**Sesión 10: Marco de Evaluación de Riesgos**
 - *Fecha: miércoles 1 de Noviembre de 2023*
 - *Instructor: Mauricio Sotelo*
 - [PDF/Material]
