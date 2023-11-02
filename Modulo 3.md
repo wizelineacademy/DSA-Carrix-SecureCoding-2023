@@ -2,12 +2,6 @@
 
 **SEMANA 5**
 
-**Sesión 9: Criptografía**
-- *Fecha: Lunes 30 de Octubre de 2023*
-- *Instructor: Arturo García Martín del Campo*
-- [PDF/Material]
-- [Grabación de sesión]
-
 **Sesión 10: Marco de Evaluación de Riesgos**
 - *Fecha: miércoles 1 de Noviembre de 2023*
 - *Instructor: Mauricio Sotelo*
