@@ -179,8 +179,8 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 **Sesión 10: Marco de Evaluación de Riesgos**
 - *Fecha: miércoles 1 de Noviembre de 2023*
 - *Instructor: Mauricio Sotelo*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13242666/Sesion.10.pdf)
+- [Grabación de sesión](https://youtu.be/2mffx-23akg)
 
 **SEMANA 6**
 
