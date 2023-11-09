@@ -16,11 +16,11 @@
 - [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13283270/Categorizacion.de.Vulnerabilidades.pdf)
 - [Grabación de sesión](https://youtu.be/gcbvsCpeGbU)
 
-**Sesión 12: Identificación de vulnerabilidades**
+**Sesión 12: Identificación de Vulnerabilidades**
 - *Fecha: Miércoles 8 de Noviembre de 2023*
 - *Instructor: Guillermo Esguerra Bautista*
-- [PDF/Material]
-- [Grabación de sesión]
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13304125/Sesion.12.pdf)
+- [Grabación de sesión](https://youtu.be/ZLMZbhOzDZY)
 
 **SEMANA 7**
 
