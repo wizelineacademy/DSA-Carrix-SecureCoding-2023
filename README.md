@@ -229,7 +229,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - 
 **Mentoria Grupal : Entregable 2**
 - *Fecha: Jueves 09 de Noviembre 2023*
-- *Instructor: Arturo Garcia*
+- *Instructor: Andres Martinez*
 - [Grabación de sesión](https://youtu.be/llYD7B7yBYY)
 
 # V - Proyecto Final (Proyecto Capstone)
