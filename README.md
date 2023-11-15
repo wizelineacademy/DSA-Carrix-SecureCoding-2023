@@ -202,7 +202,7 @@ El periodo del entrenamiento será del día 2 de Octubre de 2023 al día 13 de N
 - *Fecha: Lunes 13 de Noviembre de 2023*
 - *Instructor: Guillermo Esguerra Bautista*
 - [PDF/Material]
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/uSpQJuCKA98)
 
 **Comentarios de la sesión**
 
