@@ -27,5 +27,5 @@
 **Sesión 13: Mitigación y remediación de vulnerabilidades**
 - *Fecha: Lunes 13 de Noviembre de 2023*
 - *Instructor: Guillermo Esguerra Bautista*
-- [PDF/Material]
+- [PDF/Material](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13384851/Sesion.13.-.Mitigacion.y.remediacion.de.vulnerabilidades._.Secure.Coding.Training._.Q3-2023._.DSA.Carrix.pdf)
 - [Grabación de sesión](https://youtu.be/uSpQJuCKA98)
