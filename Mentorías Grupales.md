@@ -8,3 +8,8 @@
 - *Fecha: Jueves 09 de Noviembre 2023*
 - *Instructor: Andres Martinez*
 - [Grabación de sesión](https://youtu.be/llYD7B7yBYY)
+
+**Mentoria Grupal : Entregable 2.2**
+- *Fecha: Jueves 16 de Noviembre 2023*
+- *Instructor: Andres Martinez*
+- [Grabación de sesión](https://youtu.be/8WeegxC2Adc)
