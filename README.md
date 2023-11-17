@@ -232,6 +232,11 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 - *Instructor: Andres Martinez*
 - [Grabación de sesión](https://youtu.be/llYD7B7yBYY)
 
+**Mentoria Grupal : Entregable 2.2**
+- *Fecha: Jueves 16 de Noviembre 2023*
+- *Instructor: Andres Martinez*
+- [Grabación de sesión](https://youtu.be/8WeegxC2Adc)
+
 # V - Proyecto Final (Proyecto Capstone)
 
 ✴️ Como parte del entregable del Proyecto Capstone, presentarás un proyecto que será parte de la evaluación final vía Zoom, en el cual reforzarás y aplicarás los conocimientos adquiridos durante la capacitación. Puede encontrar el documento con el desglose del Proyecto Capstone y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13230752/Proyecto.Final.pdf)
