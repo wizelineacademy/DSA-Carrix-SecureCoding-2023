@@ -3,7 +3,7 @@
 - Puedes encontrar el documento con el desglose del Proyecto Final y las fechas de entrega [AQUÍ](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13230752/Proyecto.Final.pdf)
 - Formulario de envio de Entregables [AQUI](https://docs.google.com/forms/d/e/1FAIpQLScdGI8T8lnX_QrIqqGGfq5czKqWQokK8vx3AW1nYpwi6s4KlA/viewform)
 - Plantilla de Reporte de Vulnerabilidades [AQUI](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/12969450/Reporte.de.Vulnerabilidad.docx)
-- Archivo de Uso [MICROST THREAT MODELLING](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13431757/MTM.zip)
+- Archivo de Uso [MICROSOFT THREAT MODELLING](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/files/13431757/MTM.zip)
 
 # Entregable 1
 
