@@ -245,7 +245,7 @@ Al final de cada sesión en vivo, complete nuestra [Encuesta de Sesión](https:/
 **Mentoria Grupal : Entregable 3**
 - *Fecha: Jueves 23 de Noviembre 2023*
 - *Instructor: Mauricio Sotelo*
-- [Grabación de sesión]
+- [Grabación de sesión](https://youtu.be/WoUC1V6p9Fs)
 
 # V - Proyecto Final (Proyecto Capstone)
 
