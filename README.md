@@ -7,7 +7,7 @@ Tabla de contenido
 
 * [I - Bienvenida](#i---bienvenida)
 * [II - Información general del Entrenamiento](#ii---información-general-del-entrenamiento)
-* [II.2 - Recursos/artículos de autoestudio]
+* [II.2 - Recursos/artículos de autoestudio](#ii2---recursosart%C3%ADculos-de-autoestudio)
 * [III - Calendario](#iii---calendario)
 * [IV - Agenda del Entrenamiento](#iv---agenda-del-entrenamiento)
 * [V - Proyecto Final (Proyecto Capstone)](#v---proyecto-final-proyecto-capstone)
