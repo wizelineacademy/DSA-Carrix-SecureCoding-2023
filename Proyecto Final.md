@@ -27,7 +27,7 @@ positivos (Hallazgos que en realidad son falsos positivos)
 - Integración de puntuación : 10
 - Fecha : 7 De Diciembre 2023
 - Formato de Envio : GitHub
-- Diagrama de Flujo  : 
+- Diagrama de Flujo [ENTREGABLE 2](https://github.com/wizelineacademy/DSA-Carrix-SecureCoding-2023/assets/115300095/6fe54de7-af75-4a68-b1d7-0f2467a601c4)
 
 1. Desarrolla una aplicación con el lenguaje de tu preferencia, donde le des la oportunidad al usuario de introducir cadenas de texto.
 2. Desarrolla una función para sanitizar el texto introducido por el usuario, permitiendo solo caracteres no maliciosos. Es sugerible utilizar expresiones regulares.
