@@ -268,7 +268,6 @@ En cualquier momento del entrenamiento podrás solicitar un 1:1 con un experto d
 | MENTOR | MODULO | AGENDAR MENTORIA |
 | ------ | ----- | ----- |
 | Andres Martinez | Modulo 1 & 2 |	[AQUI](https://calendly.com/andres-martinez-wizeline) |
-| Mauricio Sotelo | Modulo 1 & 3 | [AQUI](https://calendly.com/mauricio_sotelo) |
 | Angel Martinez | Modulo 2 |	[AQUI](https://calendly.com/angel-martinez-wizeline/dsa-carrix-mentorias) |
 | Guillermo Esguerra | Modulo 1, 2 & 3 | [AQUI](https://calendly.com/gesguerra-wizeline/30min)
 
